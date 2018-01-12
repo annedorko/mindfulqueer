@@ -2,11 +2,13 @@
 layout: default
 ---
 
-<p>The Mindful Queer is a personal project to journal progress through 2018.</p>
+<p>The Mindful Queer is a personal project to journal progress through 2018. Read the posts below to get inspiration for how to incorporate mindfulness into your own life and business.</p>
 
 <hr />
 
 {% for post in site.posts %}
     <h2 style="margin: 20px 0 0;"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong></small></p>			
+    <p><small>{{ post.date | date: "%B %e, %Y" }}</small></p>
+    <p>{{ post.excerpt }}</p>
+    <p><a href="{{ post.url }}">Keep reading...</a></p>
 {% endfor %}
