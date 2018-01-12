@@ -2,9 +2,11 @@
 layout: default
 ---
 
-The Mindful Queer is a personal project to journal progress through 2018.
+<p>The Mindful Queer is a personal project to journal progress through 2018.</p>
 
-{% for post in site.posts %}	
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+<hr />
+
+{% for post in site.posts %}
+    <h2 style="margin: 20px 0 0;"><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong></small></p>			
 {% endfor %}
