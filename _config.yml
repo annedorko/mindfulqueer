@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: The Mindful Queer
 description: a queer mindfulness experiment
 permalink: /:year/:month/:title/
+author: Anne Dorko
