@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Finding Success: On Choosing Yearly Themes"
+title: "How to Find Success: Choose a Yearly Theme"
 ---
 
-Every year, I choose a theme to focus my decisions on a specific target. Thus far, it has worked rather well.
+Every year, I choose a theme to focus my decisions on a specific target. So far, it has worked rather well.
 
 The year of 2018 is all about expansion for me. This is all inclusive of my mind, body, and business.
 
