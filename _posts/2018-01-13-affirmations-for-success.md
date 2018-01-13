@@ -5,7 +5,7 @@ title: Choosing Affirmations for Happiness and Success
 
 As a part of my mindfulness journey, I’ll be using affirmations as a tool to reinforce positive thinking. This will enable me to direct my energy exactly where I want to.
 
-Affirmations work by reshaping your brain to believe something or think a certain way through intentional repetition. This is how we purposefuly control what goes into our minds and mold it on purpose, instead of letting uncontrollable messages be the biggest influence on our lives throughout the day. By keeping our intentions embedded and fresh in our brains, we are more likely to make decisions that lead us to actions which manifest the results we are seeking out.
+Affirmations work by reshaping your brain to believe something or think a certain way through intentional repetition. This is how we purposefuly control what goes into our minds and mold it, instead of letting uncontrollable messages be the biggest influence on our lives throughout the day. By keeping our intentions embedded and fresh in our brains, we are more likely to make decisions that lead us to actions which manifest the results we are seeking out.
 
 So, I have sought out affirmations for personal confidence and financial success. Here is a big handful of affirmations I’ve found to work with this year:
 
