@@ -9,65 +9,65 @@ Affirmations reshape your brain to believe something or think a certain way thro
 
 So, I have sought out affirmations for personal confidence and financial success. Here is a big handful of affirmations I’ve found to work with this year:
 
-* Today I choose to create magic, not excuses.
+* **I am creating magic, not excuses.**
 * I am comfortable asking for what I want because I know I deserve it.
-* Today I choose to focus only on what I can control.
-* I embrace my full potential, even when it makes others uncomfortable.
-* I can't do everything today, but I can take one small step.
-* I do what no one else is willing to do.
-* I face one fear each day.
-* I appreciate someone unappreciated each day.
-* I listen 10 times more than I speak.
-* I do not care what other people think.
+* I am focusing only on what I can control.
+* I am embracing my full potential, even when it makes others uncomfortable.
+* **I am not doing everything today, but taking one small step.**
+* I am doing what no one else is willing to do.
+* I am facing one fear each day.
+* I am appreciating someone unappreciated each day.
+* I am listening ten times more than I speak.
+* I am not caring about what other people think.
 * I am OK with less than perfect.
-* I try to do better every day.
-* The one thing I can always do is outwork them.
-* I stop and enjoy the small pleasures in life.
+* I am doing better every day.
+* I am always outworking them.
+* I am stopping to enjoy the small pleasures in life.
 * **I am seeing this change through.**
-* I dwell in infinite abundance.
-* I am infinite potential.
+* I am dwelling in infinite abundance.
+* **I am infinite potential.**
 * I am releasing unconscious trauma.
 * Money is pure energy, and it exists within my mind.
 * I am proud of my life, and I am proud of who I am.
-* My fears are false illusions. What inspires me is the truth.
+* I am inspired by truth, not the false illusions of my fears.
 * I am meant to have everything I desire.
-* I create from right now.
+* I am creating from right now.
 * I have, or can quickly get, all the knowledge I need to succeed.
 * Success and money come easily to me.
-* My service is a gift to the world and I am compelled to share it.
+* I am compelled to offer my service, which is a gift to the world.
 * I am building a successful company every day.
-* I bring value to the lives of others through my business. 
-* The success of my fellow entrepreneurs fuels me with energy and joy.
-* There are no limits to what I can achieve.
-* I create daily opportunities for growth for myself and others.
-* My income is growing every day by doing something I love.
-* The passion I have for my work enables me to create real value.
-* I serve my highest work to my clients and customers.
+* I am bringing value to the lives of others through my business. 
+* I am fueled by the success of my fellow entrepreneurs.
+* I am unlimited in what I can achieve.
+* I am creating daily opportunities for growth for myself and others.
+* I am growing my income every day by doing something I love.
+* I am full of passion for my work, which enables me to create real value.
+* I am serving my highest work to my clients and customers.
 * I get everything I want by first helping others get everything they want.
-* I treasure the freedom my business affords me.
-* My work leaves me stronger and happier at the end of the day.
-* I invest in myself and in my business every day.
-* My ideas come to life through may business.
-* I leave a small dent in the universe with my work.
-* Success and growth are inevitable outcomes of my work.
-* I do the work to achieve my results.
-* I choose high risks to enjoy high rewards.
-* I am a shameless self-promoter.
-* I know how to say no and mean it.
-* I live up to nobody’s expectations.
-* Time is my most valued asset and I invest it wisely. 
-* I focus on my strengths and master them.
-* I take action to give my ideas life.
-* I embrace risks as a part of my lifestyle.
-* Each day I live to my fullest potential.
-* Each day I make intelligent and profitable business decisions.
-* I condition my thoughts and action for success.
-* I choose to accept money as a valuable resource.
-* Improving my money-management skills is a priority.
+* I am treasuring the freedom my business affords me.
+* I am stronger and happier because of my work.
+* I am investing in myself and in my business today.
+* I am bringing my ideas to life through my business.
+* I am leaving a small dent in the universe with my work.
+* I am inevitably bringing success and growth as outcomes of my work.
+* I am doing the work to achieve my results.
+* I am choosing high risks to enjoy high rewards.
+* **I am a shameless self-promoter.**
+* **I know how to say no and mean it.**
+* I am living up to nobody’s expectations.
+* I am investing my time, my most valued asset, wisely.
+* I am focusing on my strengths and mastering them.
+* I am taking action to give my ideas life.
+* I am embracing risks as a part of my lifestyle.
+* I am living to my fullest potential.
+* I am making intelligent and profitable business decisions.
+* I am conditioning my thoughts and action for success.
+* I am choosing to accept money as a valuable resource.
+* I am prioritizing my money-management skills.
 * I am comfortable increasing my income.
 * I listen, learn, and implement.
 * I am responsible for my success and failure. 
-* I help others become more successful as I make my way to the top.
+* I am helping others become more successful as I make my way to the top.
 * I am deserving of my successes.
 * I am grateful for the personal rewards I enjoy from being an entrepreneur.
 
