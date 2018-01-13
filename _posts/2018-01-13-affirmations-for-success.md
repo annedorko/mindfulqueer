@@ -3,9 +3,9 @@ layout: post
 title: Affirmations for Happiness and Success
 ---
 
-As a part of my mindfulness journey, I’ll be using affirmations as a tool to reinforce positive thinking. This will enable me to direct my energy exactly where I want to.
+As a part of my mindfulness journey, I am using affirmations as a tool to reinforce positive thinking. This enables me to direct my energy exactly where I want it to go.
 
-Affirmations work by reshaping your brain to believe something or think a certain way through intentional repetition. This is how we purposefuly control what goes into our minds and mold it, instead of letting uncontrollable messages be the biggest influence on our lives throughout the day. By keeping our intentions embedded and fresh in our brains, we are more likely to make decisions that lead us to actions which manifest the results we are seeking out.
+Affirmations reshape your brain to believe something or think a certain way through intentional repetition. This is how we purposefuly control what goes into our minds and mold it, instead of letting uncontrollable messages be the biggest influence on our lives throughout the day. By keeping our intentions embedded and fresh in our brains, we are more likely to make decisions that lead us to actions which manifest the results we are seeking out.
 
 So, I have sought out affirmations for personal confidence and financial success. Here is a big handful of affirmations I’ve found to work with this year:
 
@@ -23,7 +23,7 @@ So, I have sought out affirmations for personal confidence and financial success
 * I try to do better every day.
 * The one thing I can always do is outwork them.
 * I stop and enjoy the small pleasures in life.
-* I am willing to see this change.
+* **I am seeing this change through.**
 * I dwell in infinite abundance.
 * I am infinite potential.
 * I am releasing unconscious trauma.
@@ -71,6 +71,6 @@ So, I have sought out affirmations for personal confidence and financial success
 * I am deserving of my successes.
 * I am grateful for the personal rewards I enjoy from being an entrepreneur.
 
-What is your favorite affirmation?
+What is your favorite affirmation? (Mine are bolded.)
 
 – The Mindful Queer
