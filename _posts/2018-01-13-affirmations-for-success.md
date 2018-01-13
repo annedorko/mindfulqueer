@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Choosing Affirmations for Happiness and Success
+title: Affirmations for Happiness and Success
 ---
 
 As a part of my mindfulness journey, I’ll be using affirmations as a tool to reinforce positive thinking. This will enable me to direct my energy exactly where I want to.
