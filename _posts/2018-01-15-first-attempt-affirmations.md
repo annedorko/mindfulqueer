@@ -3,7 +3,7 @@ layout: post
 title: Inside a First Attempt at Verbally Performing Affirmations
 ---
 
-I stare in the direction of the window, not really at the window or even through it. I ground my feet on the floor, sat comfortably straight, hands in my lap.
+I stare in the direction of the window, not really at the window or even through it. I ground my feet on the floor, sit comfortably straight, hands in my lap.
 
 I am anxious and overwhelmed right now with the sheer amount of work ahead of me, so I’ve chosen this affirmation for the day:
 
