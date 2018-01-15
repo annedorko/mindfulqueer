@@ -13,7 +13,7 @@ So, I have sought out affirmations for personal confidence and financial success
 * I am comfortable asking for what I want because I know I deserve it.
 * I am focusing only on what I can control.
 * I am embracing my full potential, even when it makes others uncomfortable.
-* **I am not doing everything today, but taking one small step.**
+* **I am not doing everything today. I am taking one small step.**
 * I am doing what no one else is willing to do.
 * I am facing one fear each day.
 * I am appreciating someone unappreciated each day.
@@ -74,3 +74,5 @@ So, I have sought out affirmations for personal confidence and financial success
 What is your favorite affirmation? (Mine are bolded.)
 
 – The Mindful Queer
+
+_Note: I update this list of affirmations whenever I tweak one for stronger impact, or find a new one to try._
