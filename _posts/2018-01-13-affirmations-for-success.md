@@ -7,13 +7,20 @@ As a part of my mindfulness journey, I am using affirmations as a tool to reinfo
 
 Affirmations reshape your brain to believe something or think a certain way through intentional repetition. This is how we purposefuly control what goes into our minds and mold it, instead of letting uncontrollable messages be the biggest influence on our lives throughout the day. By keeping our intentions embedded and fresh in our brains, we are more likely to make decisions that lead us to actions which manifest the results we are seeking out.
 
-So, I have sought out affirmations for personal confidence and financial success. Here is a big handful of affirmations I’ve found to work with this year:
+So, I have sought out affirmations for personal confidence and financial success. _Note: These lists of affirmations are regularly updated._
+
+First, here are the affirmations I have used and enjoyed:
+
+* I am not doing everything today. I am taking one small step.
+* I am not perfect, but I am powerful.
+* It doesn’t have to be perfect to be effective.
+
+Then, here is a big handful of affirmations I’ve found to try out throughout the rest of the year:
 
 * **I am creating magic, not excuses.**
 * I am comfortable asking for what I want because I know I deserve it.
 * I am focusing only on what I can control.
 * I am embracing my full potential, even when it makes others uncomfortable.
-* **I am not doing everything today. I am taking one small step.**
 * I am doing what no one else is willing to do.
 * I am facing one fear each day.
 * I am appreciating someone unappreciated each day.
@@ -71,8 +78,8 @@ So, I have sought out affirmations for personal confidence and financial success
 * I am deserving of my successes.
 * I am grateful for the personal rewards I enjoy from being an entrepreneur.
 
-What is your favorite affirmation? (Mine are bolded.)
+[What is your favorite affirmation?](https://twitter.com/intent/tweet?text=My%20favorite%20affirmation%20is%20WRITE%20YOURS%20HERE!&url=http://mindfulqueer.com/2018/01/affirmations-for-success/&hashtags=mindfulness,luckengineer&via=annedorko&in-reply-to=953568780868837376) (Mine are bolded.)
 
 – The Mindful Queer
 
-_Note: I update this list of affirmations whenever I tweak one for stronger impact, or find a new one to try._
+_Reminder: I update this list of affirmations whenever I tweak one for stronger impact, or find a new one to try._
