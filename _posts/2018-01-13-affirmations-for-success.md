@@ -14,12 +14,14 @@ First, here are the affirmations I have used and enjoyed:
 * I am not doing everything today. I am taking one small step.
 * I am not perfect, but I am powerful.
 * It doesn’t have to be perfect to be effective.
+* I am focusing only on what I can control.
+* I _am_ focusing on what I can control.
+* I can control the way I spend my time.
 
 Then, here is a big handful of affirmations I’ve found to try out throughout the rest of the year:
 
 * **I am creating magic, not excuses.**
 * I am comfortable asking for what I want because I know I deserve it.
-* I am focusing only on what I can control.
 * I am embracing my full potential, even when it makes others uncomfortable.
 * I am doing what no one else is willing to do.
 * I am facing one fear each day.
