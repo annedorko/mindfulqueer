@@ -3,7 +3,7 @@ layout: post
 title: Controlling Time
 ---
 
-Time is one asset we all have exactly the same amount of.
+Time is one asset we all have exactly the same amount of.*
 
 No matter where you’re starting from, we can all get better at the way we use our time.
 
@@ -28,3 +28,5 @@ Re-examining what that means every day and identifying how I can take yet anothe
 I can’t wait to be checking back in around days 90, 180, and 365... just to see how far I’ve come.
 
 – The Mindful Queer
+
+<small>* For those of you who are snarky, I simply mean we all get 24 hours in a day each day 😉</small>
