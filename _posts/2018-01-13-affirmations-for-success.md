@@ -17,6 +17,7 @@ First, here are the affirmations I have used and enjoyed:
 * I am focusing only on what I can control.
 * I _am_ focusing on what I can control.
 * I can control the way I spend my time.
+* I am unlimited in what I can achieve.
 
 Then, here is a big handful of affirmations I’ve found to try out throughout the rest of the year:
 
@@ -47,7 +48,6 @@ Then, here is a big handful of affirmations I’ve found to try out throughout t
 * I am building a successful company every day.
 * I am bringing value to the lives of others through my business. 
 * I am fueled by the success of my fellow entrepreneurs.
-* I am unlimited in what I can achieve.
 * I am creating daily opportunities for growth for myself and others.
 * I am growing my income every day by doing something I love.
 * I am full of passion for my work, which enables me to create real value.
