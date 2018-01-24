@@ -18,6 +18,7 @@ First, here are the affirmations I have used and enjoyed:
 * I _am_ focusing on what I can control.
 * I can control the way I spend my time.
 * I am unlimited in what I can achieve.
+* Success and money come easily to me.
 
 Then, here is a big handful of affirmations I’ve found to try out throughout the rest of the year:
 
@@ -43,7 +44,6 @@ Then, here is a big handful of affirmations I’ve found to try out throughout t
 * I am meant to have everything I desire.
 * I am creating from right now.
 * I have, or can quickly get, all the knowledge I need to succeed.
-* Success and money come easily to me.
 * I am compelled to offer my service, which is a gift to the world.
 * I am building a successful company every day.
 * I am bringing value to the lives of others through my business. 
