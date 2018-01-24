@@ -3,3 +3,6 @@ title: The Mindful Queer
 description: a queer mindfulness experiment by the luck engineer
 permalink: /:year/:month/:title/
 author: Anne Dorko
+
+plugins:
+  - jekyll-feed
