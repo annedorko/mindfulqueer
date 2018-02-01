@@ -19,6 +19,7 @@ First, here are the affirmations I have used and enjoyed:
 * I can control the way I spend my time.
 * I am unlimited in what I can achieve.
 * Success and money come easily to me.
+* Sok kicsi sokra megy. (Hungarian meaning: Many small things add up to something bigger.)
 
 Then, here is a big handful of affirmations I’ve found to try out throughout the rest of the year:
 
